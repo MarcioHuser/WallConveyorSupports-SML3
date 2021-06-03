@@ -1,13 +1,14 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
+	"SemVersion": "1.0.1",
 	"FriendlyName": "Wall Conveyor Supports",
 	"Description": "Additional variants of the wall conveyor support",
 	"Category": "Modding",
 	"CreatedBy": "Marcio Neves",
 	"CreatedByURL": "https://ficsit.app/user/27uDm1v7WoUoDX",
-	"DocsURL": "https://github.com/MarcioHuser/WallConveyorSupports-SML3",
+	"DocsURL": "https://ficsit.app/mod/7wWzUM3qj9VCoT",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
@@ -17,10 +18,12 @@
 	"Plugins": [
 		{
 			"Name": "SML",
+			"SemVersion": "^3.1.1",
 			"Enabled": true
 		},
 		{
 			"Name": "MarcioCommonLibs",
+			"SemVersion": "^1.0.2",
 			"Enabled": true
 		}
 	]

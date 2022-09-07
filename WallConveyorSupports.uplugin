@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.0",
-	"SemVersion": "1.1.0",
+	"VersionName": "1.1.1",
+	"SemVersion": "1.1.1",
 	"FriendlyName": "Wall Conveyor Supports",
 	"Description": "Additional variants of the wall conveyor support",
 	"Category": "Modding",
@@ -18,12 +18,12 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.2.0",
+			"SemVersion": "^3.3.2",
 			"Enabled": true
 		},
 		{
 			"Name": "MarcioCommonLibs",
-			"SemVersion": "^1.1.0",
+			"SemVersion": "^1.1.2",
 			"Enabled": true
 		}
 	]

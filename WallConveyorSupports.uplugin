@@ -1,31 +1,31 @@
 {
-  "FileVersion": 3,
-  "Version": 1,
-  "VersionName": "1.3.2",
-  "SemVersion": "1.3.2",
-  "GameVersion": ">=385279",
-  "FriendlyName": "Wall Conveyor Supports",
-  "Description": "Additional variants of the wall conveyor support",
-  "Category": "Modding",
-  "CreatedBy": "Marcio Neves",
-  "CreatedByURL": "https://ficsit.app/user/27uDm1v7WoUoDX",
-  "DocsURL": "https://ficsit.app/mod/WallConveyorSupports",
-  "MarketplaceURL": "",
-  "SupportURL": "",
-  "CanContainContent": true,
-  "IsBetaVersion": false,
-  "IsExperimentalVersion": false,
-  "Installed": false,
-  "Plugins": [
-    {
-      "Name": "SML",
-      "SemVersion": "^3.9.0",
-      "Enabled": true
-    },
-    {
-      "Name": "MarcioCommonLibs",
-      "SemVersion": "^1.3.8",
-      "Enabled": true
-    }
-  ]
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3.3",
+	"SemVersion": "1.3.3",
+	"GameVersion": ">=416835",
+	"FriendlyName": "Wall Conveyor Supports",
+	"Description": "Additional variants of the wall conveyor support",
+	"Category": "Modding",
+	"CreatedBy": "Marcio Neves",
+	"CreatedByURL": "https://ficsit.app/user/27uDm1v7WoUoDX",
+	"DocsURL": "https://ficsit.app/mod/WallConveyorSupports",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.11.1",
+			"Enabled": true
+		},
+		{
+			"Name": "MarcioCommonLibs",
+			"SemVersion": "^1.3.9",
+			"Enabled": true
+		}
+	]
 }
